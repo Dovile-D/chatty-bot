@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-classes-java.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-test-results.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-tmp.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Comments-The_countdown.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Comments-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Interval.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Arithmetic_expression.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Calculate_the_digit.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Desks.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Overview_of_the_basic_program-Cats_are_robots.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Overview_of_the_basic_program-Keywords.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Overview_of_the_basic_program-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Relational_operators-Is_between.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Hiring_a_chef.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Reading_a_number.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Understanding_System.in.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-String-Extracting_a_substring.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-String-Finding_string_expressions.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-String-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-The_for-loop-Fizz_Buzz.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-The_for-loop-From_sum_to_product.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-The_for-loop-Numbers_divisible_by_six.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-The_for-loop-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-The_for-loop-Such_different_for_loops.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-The_for-loop-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Types_and_variables-Invalid_declaration_of_variables.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Types_and_variables-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Types_and_variables-The_name_of_a_variable.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).Topics-Types_and_variables-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot_(Java).util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
